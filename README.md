@@ -16,7 +16,7 @@
 - long class 
 
 ### 最近ゼミでやっていること
-- （活動の内容）← preparation for thesis
+- （活動の内容）← preparation for thesiswww
 
 ### 最近面白いと思った（ゲーム・配信・テレビ・小説……など）
 - （タイトル）←ここ書き換え
