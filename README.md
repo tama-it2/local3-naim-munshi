@@ -13,7 +13,7 @@
 
 ### 多摩大学の講義で面白かったもの
 - network
-- hard to do
+- hard to do ff
 
 ### 最近ゼミでやっていること
 - （活動の内容）← prepare for thesis
