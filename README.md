@@ -12,12 +12,12 @@
 - 最終的に、github 上の main ブランチに、３回以上の merge が記録されていれば、課題をクリアしたことになります。
 
 ### 多摩大学の講義で面白かったもの
-- community
-- long class 
+- cloud service
+- hard to understnad
 
 ### 最近ゼミでやっていること
-- （活動の内容）← preparation for thesiswww
+- （活動の内容）← preparation for report
 
 ### 最近面白いと思った（ゲーム・配信・テレビ・小説……など）
-- （タイトル）←ここ書き換え
-- （面白いと思った点）←ここ書き換え
+- （タイトル）←the end
+- （面白いと思った点）←still think
